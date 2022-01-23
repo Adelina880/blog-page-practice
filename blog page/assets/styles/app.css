@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.author-photo img {
+  box-shadow: -5px 13px 0 0 #edf7fa;
+}
+
+.section-recent-posts {
+  background-color: #edf7fa;
+}
